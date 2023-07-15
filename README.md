@@ -16,3 +16,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=MZRCode&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
+
+<h1 align="center"> Discord Hesabım </h1>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/701518625760346172)](https://discord.com/users/701518625760346172)
