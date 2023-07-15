@@ -2,6 +2,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=MZRDevelopment&color=red)&nbsp;
 [![GitHub MZRDev](https://img.shields.io/github/followers/MZRCode?label=Takipçi&style=social)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/mzrdevelopment"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
+<a href="https://instaagram.com/teampet.csn"><img src="https://img.shields.io/badge/Instagram-5865F2?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ## Bildiğim Diller:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,6 +18,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
 
-## Discord Hesabım:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/701518625760346172)](https://discord.com/users/701518625760346172)
