@@ -7,7 +7,7 @@
 <a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
 
 ## Bildiğim Diller ve Araçlar:
-![NodeJS](https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.js%20-111111?style=flat&logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
