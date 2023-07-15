@@ -1,4 +1,4 @@
-# Merhaba dostlar, ben MZR
+# Hey selam, ben MZR
 ![profile count](https://komarev.com/ghpvc/?username=MZRDevelopment&color=red)&nbsp;
 [![GitHub MZRDev](https://img.shields.io/github/followers/MZRCode?label=Takipçi&style=social)](https://github.com/MZRCode)&nbsp;
 <a href="https://discord.gg/mzrdevelopment"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
