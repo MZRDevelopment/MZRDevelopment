@@ -19,4 +19,4 @@
 
 <h1 align="center"> Discord Hesabım </h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/734046689505312829)](https://discord.com/users/701518625760346172)
+[![Discord Presence](https://lanyard.cnrad.dev/api/701518625760346172)](https://discord.com/users/701518625760346172)
