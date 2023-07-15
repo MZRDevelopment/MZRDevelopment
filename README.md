@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Glitch](https://img.shields.io/badge/-Glitch-05122A?style=flat&logo=Glitch)&nbsp;
+![Glitch](https://img.shields.io/badge/-Glitch%20Code%20Editor-05122A?style=flat&logo=Glitch)&nbsp;
 
 
 <h3 align="left">:bar_chart: GitHub İstatislik:</h3>
