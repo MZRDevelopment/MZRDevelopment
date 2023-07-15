@@ -4,6 +4,7 @@
 <a href="https://discord.gg/mzrdevelopment"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a> &nbsp;
 <a href="https://instaagram.com/ikincielgezginleri"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="https://youtube.com/@MZRDev"><img src="https://img.shields.io/badge/YouTube-ff0000?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
+<a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
 
 ## Bildiğim Diller:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
