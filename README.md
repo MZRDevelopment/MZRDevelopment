@@ -17,6 +17,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
 
-<h1 align="center"> Discord Hesabım </h1>
+## Discord Hesabım:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/701518625760346172)](https://discord.com/users/701518625760346172)
