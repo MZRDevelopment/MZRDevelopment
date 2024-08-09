@@ -27,4 +27,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=MZRCode&theme=radical" />
 </p>
 
-![snake-game](https://cdn.discordapp.com/attachments/1163092128189141073/1200073455014527067/github-user-contribution.svg)
+![snake-game]([https://cdn.discordapp.com/attachments/1163092128189141073/1200073455014527067/github-user-contribution.svg](https://raw.githubusercontent.com/MZRDevelopment/MZRDevelopment/92a8ce2c730274fed448650c49e57b868525d1ec/snake.svg))
