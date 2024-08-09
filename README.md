@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/user/x9cbfwe8xc9iu6eqfbpsw2ujb"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=Spotify&logoColor=white"/></a> &nbsp;
 <a href="https://www.buymeacoffee.com/mzrdev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="85px" height="20px" alt="Buy Me A Coffee :)"></a>
 
-## Languages, Libraries and Tools i Use:
+## Languages, Libraries and Tools I Use:
 ![NodeJS](https://img.shields.io/badge/-Node.js%20-111111?style=flat&logo=Node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
